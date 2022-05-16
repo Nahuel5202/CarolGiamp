@@ -1,7 +1,7 @@
 ## Olá!!!! Sou a Carolina Giampietro 👋
 
 - 🌱 Estudando JavaScript, HTML, CSS, Kotlin...
-- 📫 Contate-me no e-mail: cagiamp@gmail.com
+- 📫 Contate-me no tel (11) 99873-5950 ou no e-mail: cagiamp@gmail.com
 - 😄 Pronouns: ela/dela
 - ⚡ Curiosidades: Estou sempre aprendendo ou fazendo algo fora da minha caixa
 
